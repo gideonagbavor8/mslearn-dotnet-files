@@ -1,0 +1,14 @@
+Sales Summary
+----------------------------
+Total Sales: £2,012.20
+
+ Details:
+ - sales: £88.88
+ - sales: £501.22
+ - salestotals: £0.00
+ - sales: £1,234.22
+ - salestotals: £0.00
+ - sales: £99.00
+ - salestotals: £0.00
+ - sales: £88.88
+ - salestotals: £0.00
